@@ -1,0 +1,53 @@
+[
+  {
+    "name": "TicTacToe",
+    "desc": "Tic Tac Toe is a classic game where two players take turns marking a 3x3 grid with Xs and Os, aiming to line up three of their symbols in a row.",
+    "image": "TicTacToe",
+    "category": "WebApp",
+    "links": {
+      "view": "https://tictactoema.netlify.app/",
+      "code": "https://github.com/gokul190604/TicTacToe"
+    }
+  },
+  {
+    "name": "Weather Webapp",
+    "desc": "A weather web app displays real-time weather updates and forecasts, helping users plan their day with accurate information.",
+    "image": "Weather",
+    "category": "WebApp",
+    "links": {
+      "view": "https://weatherap12.netlify.app/",
+      "code": "https://github.com/gokul190604/WeatherApp"
+    }
+  },
+  {
+    "name": "LandingPage",
+    "desc": "An institution landing page highlights key features, programs, and achievements, offering a welcoming and informative entry point for visitors.",
+    "image": "Institution LandingPage",
+    "category": "WebApp",
+    "links": {
+      "view": "https://stopwatchgo.netlify.app/",
+      "code": "https://github.com/gokul190604/LandingPage"
+    }
+  },
+  {
+    "name": "Stopwatch",
+    "desc": "A stopwatch and clock app allows users to track elapsed time with precision and view the current time in real-time.",
+    "image": "ClockAndStopwatch",
+    "category": "WebApp",
+    "links": {
+      "view": "https://stopwatchgo.netlify.app/",
+      "code": "https://github.com/gokul190604/stopwatch"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "My portfolio highlights my expertise in web development and software engineering, showcasing dynamic projects and practical coding solutions.",
+    "image": "portfolio",
+    "category": "WebApp",
+    "links": {
+      "view": "https://portfolio-gokulma.netlify.app/",
+      "code": "https://github.com/gokul190604/Portfolio"
+    }
+  }
+]
+  
